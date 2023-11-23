@@ -1,0 +1,9 @@
+﻿  OOP LAB№5.cpp
+C:\Users\vilja\source\repos\OOP LAB№5\OOP LAB№5\OOP LAB№5.cpp(102,13): error C2675: unary '--': 'T' does not define this operator or a conversion to a type acceptable to the predefined operator
+          with
+          [
+              T=MyClass
+          ]
+C:\Users\vilja\source\repos\OOP LAB№5\OOP LAB№5\OOP LAB№5.cpp(100,1): message : while compiling class template member function 'MyTemplate<MyClass> &MyTemplate<MyClass>::operator --(void)'
+C:\Users\vilja\source\repos\OOP LAB№5\OOP LAB№5\OOP LAB№5.cpp(134,9): message : see reference to function template instantiation 'MyTemplate<MyClass> &MyTemplate<MyClass>::operator --(void)' being compiled
+C:\Users\vilja\source\repos\OOP LAB№5\OOP LAB№5\OOP LAB№5.cpp(132,44): message : see reference to class template instantiation 'MyTemplate<MyClass>' being compiled
